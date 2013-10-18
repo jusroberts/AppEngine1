@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = AppEngine1::VERSION
   s.authors     = ["justin"]
   s.email       = ["nichetestjustin@gmail.com"]
-  s.homepage    = "www.banana.com"
+  s.homepage    = "http://www.banana.com"
   s.summary     = "Banana"
   s.description = "Banana"
 
